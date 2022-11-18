@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itzCozi
-- 👀 I’m interested in ... malicious coding and pen testing
-- 🌱 I’m currently learning ... malicious coding and pen testing
-- 💞️ I’m looking to collaborate on ... malicious coding and pen testing
+- 👀 I’m interested in ... Drugs
+- 🌱 I’m currently learning ... like everything
+- 💞️ I’m looking to collaborate on ... Machine Learning
 - 📫 How to reach me ... discord: Cozi#4200
 
 <!---
