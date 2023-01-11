@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzCozi)](https://github.com/anuraghazra/github-readme-stats)
+[![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzCozi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi i am cooper i am a programmer and my main langauge is python but i am also learning C++ as of now. I am also very cool and you should reach-
 out to me so we work on an open source project together.
