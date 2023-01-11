@@ -1,3 +1,5 @@
+[![Visitor](https://visitor-badge.glitch.me/badge?page_id=itzCozi.itzCozi)](https://github.com/itzCozi/itzCozi)
+
 [![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzCozi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi I am cooper and I am a programmer my main langauge is python but I am also learning C++ as of now. 
