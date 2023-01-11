@@ -8,4 +8,4 @@ Contact Me
 ---------------------------------
 discord: BadDevoleper#4200                                                                                                                                             
 Email: Cooperransom08@outlook.com                                                                                                                                    
-"Flesh is cringe, circuitry is the future." 
+
