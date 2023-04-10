@@ -9,7 +9,8 @@ I am also very cool and you should reach out to me so we work on an open source 
 Contact Me
 ---------------------------------
 discord: BadDevoleper#4200                                                                                                                                             
-Email: Cooperransom08@outlook.com                                                                                                                                      
+Email: Cooperransom08@outlook.com  
+[Discord Server](https://discord.gg/xGnQQGxwq2)  | 
 [Replit](https://replit.com/@cozi08) | 
 [Twitter](https://twitter.com/ransom_cooper)
 
