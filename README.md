@@ -1,6 +1,6 @@
 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=itzCozi.itzCozi)](https://github.com/itzCozi/itzCozi)
 
-![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=transparent)
 
 Hi I am cooper and I am a programmer my main langauge is python and C++ but I am also learning Go as of now. 
 Recently I've been making pull request to help people make code more accessible and Open-Source, 
