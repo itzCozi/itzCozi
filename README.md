@@ -1,10 +1,6 @@
-[![Visitor](https://visitor-badge.glitch.me/badge?page_id=itzCozi.itzCozi)](https://github.com/itzCozi/itzCozi)
+![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=nord)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi&hide=css,batchfile&langs_count=3&size_weight=0.5&count_weight=0.5&theme=nord)
 
-![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi)](https://github.com/itzCozi/github-readme-stats)
-
-Hi I am cooper and I am a programmer my main langauge is python and C++ but I am also learning Go as of now. 
-Recently I've been making pull request to help people make code more accessible and Open-Source, 
-I am also very cool and you should reach out to me so we work on an open source project together.
+Hi I am cooper and I am a student programmer my main language is python and C++ but I'm also learning Go as of now. Recently I've been making systems and projects to learn programming, I'm passionate about Open-Source and programming (and for fun). I am also very cool and you should reach out to me if you have any further inquiry.
 
 ### Contact Me
 Discord: BadDevoleper#4200  
