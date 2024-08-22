@@ -5,7 +5,7 @@
 Hi I am cooper and I am a student programmer my main language is python and C++. Recently I've been making systems and projects to learn programming, I'm passionate about Open-Source and UI design. I am also very cool and you should reach out to me if you have any further inquiry.
 
 ## Cooper's Epic Projects
-1. [sudo-flix](https://archive.undi.rest/dev)
+1. [sudo-flix](https://github.com/sussy-code)
 2. [bookracy](https://github.com/bookracy)
 3. [wyzie-subs](https://subs.wyzie.ru)
 4. [NSBX](https://nsbx.ru)
