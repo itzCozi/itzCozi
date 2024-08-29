@@ -12,6 +12,10 @@ Hi I am cooper and I am a student programmer. Recently I've been making systems 
 3. [wyzie-subs](https://subs.wyzie.ru)
 4. [NSBX](https://nsbx.ru)
 
+<sup>
+<strong>Disclaimer:</strong> These project's are intended solely for educational purposes and as a proof of concept. It is not intended for production use or large scale hosting. Use this project responsibly and in compliance with all applicable laws and regulations in your country.
+</sup>
+
 ### Contact Me
 Discord: `.baddeveloper`  
 Email: Cooperransom08@outlook.com  
