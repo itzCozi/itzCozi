@@ -7,10 +7,10 @@
 Hi I am cooper and I am a student programmer. Recently I've been making systems and projects to learn programming and benefit the community, I'm passionate about Open-Source and UI design. I am also very cool and you should reach out to me if you have any further inquiry.
 
 ## Cooper's Epic Projects
-1. [sudo-flix](https://github.com/sussy-code)
-2. [bookracy](https://github.com/bookracy)
-3. [wyzie-subs](https://subs.wyzie.ru)
-4. [NSBX](https://nsbx.ru)
+1. [sudo-flix](https://github.com/sussy-code) (source code)
+2. [bookracy](https://bookracy.org) | [source code](https://github.com/bookracy)
+3. [wyzie-subs](https://subs.wyzie.ru) | [source code](https://github.com/itzCozi/wyzie-subs)
+4. [NSBX](https://nsbx.ru) (closed source scrapping API)
 
 <sup>
 <strong>Disclaimer:</strong> These project's are intended solely for educational purposes and as a proof of concept. It is not intended for production use or large scale hosting. Use this project responsibly and in compliance with all applicable laws and regulations in your country.
