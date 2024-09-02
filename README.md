@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?itzCozi&color=dc143c&style=for-the-badge&base=1000&abbreviated=true)  
 
-![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=nord)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi&hide=css,batchfile&langs_count=5&size_weight=0.5&count_weight=0.5&theme=nord)
+![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=nord)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi&hide=css,batchfile,glsl&langs_count=5&theme=nord)
 
 Hi I am cooper and I am a student programmer. Recently I've been making systems and projects to learn programming and benefit the community, I'm passionate about Open-Source and UI design. I am also very cool and you should reach out to me if you have any further inquiry.
 
