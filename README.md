@@ -4,7 +4,7 @@
 
 ![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=nord)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi&hide=css,batchfile,glsl&langs_count=5&theme=nord)
 
-Hi I am cooper and I am a student programmer. Recently I've been making systems and projects to learn programming and benefit the community, I'm passionate about Open-Source and UI design. I am also very cool and you should reach out to me if you have any further inquiry.
+Hi I am cooper (or BadDeveloper) and I am a student programmer. Recently I've been making systems and projects to learn programming and benefit the community, I'm passionate about Open-Source and UI design. I am also very cool and you should reach out to me if you have any further inquiry.
 
 ## Cooper's Epic Projects
 1. [sudo-flix](https://github.com/sussy-code) (source code)
