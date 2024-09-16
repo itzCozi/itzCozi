@@ -9,7 +9,7 @@ Hi I am cooper (or BadDeveloper) and I am a student programmer. Recently I've be
 ## Cooper's Epic Projects
 1. [sudo-flix](https://github.com/sussy-code) (source code)
 2. [bookracy](https://bookracy.org) | [source code](https://github.com/bookracy)
-3. [wyzie-subs](https://subs.wyzie.ru) | [source code](https://github.com/itzCozi/wyzie-subs)
+3. [wyzie-subs](https://subs.wyzie.ru), [wyzie-lib](https://www.npmjs.com/package/wyzie-lib) | [source code](https://github.com/itzCozi/wyzie-subs), [source code](https://github.com/itzCozi/wyzie-lib)
 
 <sup>
 <strong>Disclaimer:</strong> These project's are intended solely for educational purposes and as a proof of concept. It is not intended for production use or large scale hosting. Use this project responsibly and in compliance with all applicable laws and regulations in your country.
