@@ -1,5 +1,5 @@
 # [Cooper Ransom](https://cozi.lol)
-<sup>or `Bad Developer`</sup>
+<sup>or `Bad Developer`</sup> ![](https://komarev.com/ghpvc/?username=itzCozi&base=1226&style=flat)
 
 ![](https://komarev.com/ghpvc/?itzCozi&color=dc143c&style=for-the-badge&base=1000&abbreviated=true)  
 
