@@ -1,6 +1,7 @@
 # [Cooper Ransom](https://cozi.lol)
+
 <sup>or `Bad Developer`</sup> ![](https://komarev.com/ghpvc/?username=itzCozi&base=1226&style=flat)
-![](https://komarev.com/ghpvc/?itzCozi&color=dc143c&style=for-the-badge&base=1000&abbreviated=true)  
+![](https://komarev.com/ghpvc/?itzCozi&color=dc143c&style=for-the-badge&base=1000&abbreviated=true)
 
 [//]: <> (Dark Mode)
 [![Cooper's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=nord#gh-dark-mode-only)](https://github.com/itzCozi#gh-dark-mode-only) [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi&hide=css,gls,c&langs_count=6&layout=compact&theme=nord#gh-dark-mode-only)](https://github.com/itzCozi#gh-dark-mode-only)
@@ -11,10 +12,19 @@
 Hi I am cooper (or BadDeveloper) and I am a student programmer. Recently I've been making systems and projects to learn programming and benefit the community, I'm passionate about Open-Source and UI design. I am also very cool and you should reach out to me if you have any further inquiry.
 
 ## Cooper's Epic Projects
-1. [sudo-flix](https://github.com/sussy-code) (source code)
-2. [bookracy](https://bookracy.org) | [source code](https://github.com/bookracy)
-3. [markd](https://markd.it) | [source code](https://github.com/itzcozi/markd)
-4. [wyzie-subs](https://subs.wyzie.ru), [wyzie-lib](https://www.npmjs.com/package/wyzie-lib), [wyzie-proxy](https://proxy.wyzie.ru) | [source code](https://github.com/itzCozi/wyzie-subs), [source code](https://github.com/itzCozi/wyzie-lib), [source code](https://github.com/itzCozi/wyzie-proxy)
+
+| Link                                                 | Source Code                                           | Referrer(s)                                                                                                                                |
+| ---------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [sudo-flix](https://github.com/sussy-code)           | [source code](https://github.com/sussy-code)          | [FMHY](https://fmhy.net): <small>Voted #1 multi-server streaming site of 2024</small>, [2](https://erynith.github.io/movie-web-instances/) |
+| [bookracy](https://bookracy.org)                     | [source code](https://github.com/bookracy)            | [FMHY](https://fmhy.net/readingpiracyguide#ebooks), [someone made a Reddit?](https://www.reddit.com/r/bookracy)                            |
+| [markd](https://markd.it)                            | [source code](https://github.com/itzcozi/markd)       | [FMHY](https://fmhy.net/devtools#markdown-editors): <small>#1 Markdown editor</small>                                                      |
+| [wyzie-subs](https://subs.wyzie.ru)                  | [source code](https://github.com/itzCozi/wyzie-subs)  | [FMHY](https://fmhy.net/devtools#api-tools), <small>used by almost all streaming sites: vidbinge, rivestream</small>                       |
+| [wyzie-lib](https://www.npmjs.com/package/wyzie-lib) | [source code](https://github.com/itzCozi/wyzie-lib)   | <small>Listed alongside wyzie-subs</small>                                                                                                 |
+| [wyzie-proxy](https://proxy.wyzie.ru)                | [source code](https://github.com/itzCozi/wyzie-proxy) | N/A                                                                                                                                        |
+
+<sup>
+I am FMHY's most listed dev of 2024 having ~5 of my projects or projects i've contributed to listed on their site, as well as the amount of streaming site listed that use my API.
+</sup>
 
 [//]: <> (Dark Mode)
 [![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=sussy-code&repo=smov&theme=nord#gh-dark-mode-only)](https://github.com/sussy-code/smov#gh-dark-mode-only)
@@ -27,6 +37,7 @@ Hi I am cooper (or BadDeveloper) and I am a student programmer. Recently I've be
 </sup>
 
 ### Contact Me
-Discord: `.baddeveloper`  
+
+Discord: `baddeveloper`  
 Email: Cooperransom08@outlook.com  
-[Sudo Twitter](https://x.com/sudoflix)  |  [Replit](https://replit.com/@cozi08)  |  [Portfolio](https://cozi.lol)  |  [Twitter](https://x.com/lilmancoop420)
+[Sudo Twitter](https://x.com/sudoflix) | [Replit](https://replit.com/@cozi08) | [Portfolio](https://cozi.lol) | [Twitter](https://x.com/lilmancoop420)
