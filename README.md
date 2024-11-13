@@ -13,7 +13,8 @@ Hi I am cooper (or BadDeveloper) and I am a student programmer. Recently I've be
 ## Cooper's Epic Projects
 1. [sudo-flix](https://github.com/sussy-code) (source code)
 2. [bookracy](https://bookracy.org) | [source code](https://github.com/bookracy)
-3. [wyzie-subs](https://subs.wyzie.ru), [wyzie-lib](https://www.npmjs.com/package/wyzie-lib) | [source code](https://github.com/itzCozi/wyzie-subs), [source code](https://github.com/itzCozi/wyzie-lib)
+3. [markd](https://markd.it) | [source code](https://github.com/itzcozi/markd)
+4. [wyzie-subs](https://subs.wyzie.ru), [wyzie-lib](https://www.npmjs.com/package/wyzie-lib), [wyzie-proxy](https://proxy.wyzie.ru) | [source code](https://github.com/itzCozi/wyzie-subs), [source code](https://github.com/itzCozi/wyzie-lib), [source code](https://github.com/itzCozi/wyzie-proxy)
 
 [//]: <> (Dark Mode)
 [![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=sussy-code&repo=smov&theme=nord#gh-dark-mode-only)](https://github.com/sussy-code/smov#gh-dark-mode-only)
