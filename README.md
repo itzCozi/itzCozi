@@ -9,7 +9,7 @@
 [//]: <> (Light Mode)
 [![Cooper's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/itzCozi#gh-light-mode-only) [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi&hide=css,gls,c&langs_count=6&layout=compact&theme=default#gh-light-mode-only)](https://github.com/itzCozi#gh-light-mode-only)
 
-Hi I am cooper (or BadDeveloper) and I am a student programmer. Recently I've been making systems and projects to learn programming and benefit the community, I'm passionate about Open-Source and UI design. I am also very cool and you should reach out to me if you have any further inquiry.
+Hi I am cooper (or BadDeveloper) and I am a student programmer. Recently I've been making systems and projects to learn programming and benefit the community, I'm passionate about Open-Source and UI design. Reach out to me if you have any further inquiry.
 
 ## Cooper's Epic Projects
 
@@ -21,6 +21,7 @@ Hi I am cooper (or BadDeveloper) and I am a student programmer. Recently I've be
 | [wyzie-subs](https://subs.wyzie.ru)                  | [source code](https://github.com/itzCozi/wyzie-subs)  | [FMHY](https://fmhy.net/devtools#api-tools), <small>used by almost all streaming sites: vidbinge, rivestream</small>                       |
 | [wyzie-lib](https://www.npmjs.com/package/wyzie-lib) | [source code](https://github.com/itzCozi/wyzie-lib)   | <small>Listed alongside wyzie-subs</small>                                                                                                 |
 | [wyzie-proxy](https://proxy.wyzie.ru)                | [source code](https://github.com/itzCozi/wyzie-proxy) | N/A                                                                                                                                        |
+| [365 Radio](https://365.ilysm.nl)                    | [source code](https://github.com/itzcozi/365)         | [FMHY](https://fmhy.net/audiopiracyguide#streaming-sites)                                                                                  |
 
 <sup>
 I am FMHY's most listed dev of 2024 having ~5 of my projects or projects i've contributed to listed on their site, as well as the amount of streaming site listed that use my API.
