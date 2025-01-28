@@ -4,10 +4,10 @@
 ![](https://komarev.com/ghpvc/?itzCozi&color=dc143c&style=for-the-badge&base=1000&abbreviated=true)
 
 [//]: <> (Dark Mode)
-[![Cooper's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=nord#gh-dark-mode-only)](https://github.com/itzCozi#gh-dark-mode-only) [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi&hide=css,gls,c&langs_count=6&layout=compact&theme=nord#gh-dark-mode-only)](https://github.com/itzCozi#gh-dark-mode-only)
+[![Cooper's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=nord#gh-dark-mode-only)](https://github.com/itzCozi#gh-dark-mode-only) [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi&hide=css,gls,TeX&langs_count=6&layout=compact&theme=nord#gh-dark-mode-only)](https://github.com/itzCozi#gh-dark-mode-only)
 
 [//]: <> (Light Mode)
-[![Cooper's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/itzCozi#gh-light-mode-only) [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi&hide=css,gls,c&langs_count=6&layout=compact&theme=default#gh-light-mode-only)](https://github.com/itzCozi#gh-light-mode-only)
+[![Cooper's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/itzCozi#gh-light-mode-only) [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi&hide=css,gls,TeX&langs_count=6&layout=compact&theme=default#gh-light-mode-only)](https://github.com/itzCozi#gh-light-mode-only)
 
 Hi I am cooper (or BadDeveloper) and I am a student programmer and music producer / DJ. Recently I've been making systems and projects to learn programming and benefit the community, I'm passionate about Open-Source and UI design. Reach out to me if you have any further inquiry.
 
