@@ -41,5 +41,5 @@ I am FMHY's most listed dev of 2024 having ~5 of my projects or projects i've co
 ### Contact Me
 
 Discord: `baddeveloper`  
-Email: Cooperransom08@outlook.com  
+Email: Dev@wyzie.ru
 [Sudo Twitter](https://x.com/sudoflix) | [Replit](https://replit.com/@cozi08) | [Portfolio](https://cozi.lol) | [Twitter](https://x.com/lilmancoop420)
