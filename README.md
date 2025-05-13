@@ -14,15 +14,17 @@ Hi I am Cooper (or BadDeveloper) and I am an experienced student programmer and 
 
 ## Cooper's Epic Projects
 
-| Link                                                 | Source Code                                           | Referrer(s)                                                                                                                                |
-| ---------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [sudo-flix](https://github.com/sussy-code)           | [source code](https://github.com/sussy-code)          | [FMHY](https://fmhy.net): <small>Voted #1 multi-server streaming site of 2024</small>, [2](https://erynith.github.io/movie-web-instances/) |
-| [bookracy](https://bookracy.org)                     | [source code](https://github.com/bookracy)            | [FMHY](https://fmhy.net/readingpiracyguide#ebooks), [someone made a Reddit?](https://www.reddit.com/r/bookracy)                            |
-| [markd](https://markd.it)                            | [source code](https://github.com/itzcozi/markd)       | [FMHY](https://fmhy.net/devtools#markdown-editors): <small>#1 Markdown editor</small>                                                      |
-| [wyzie-subs](https://subs.wyzie.ru)                  | [source code](https://github.com/itzCozi/wyzie-subs)  | [FMHY](https://fmhy.net/devtools#api-tools), <small>used by almost all streaming sites: vidbinge, rivestream</small>                       |
-| [wyzie-lib](https://www.npmjs.com/package/wyzie-lib) | [source code](https://github.com/itzCozi/wyzie-lib)   | <small>Listed alongside wyzie-subs</small>                                                                                                 |
-| [wyzie-proxy](https://proxy.wyzie.ru)                | [source code](https://github.com/itzCozi/wyzie-proxy) | N/A                                                                                                                                        |
-| [365 Radio](https://365.ilysm.nl)                    | [source code](https://github.com/itzcozi/365)         | [FMHY](https://fmhy.net/audiopiracyguide#streaming-sites)                                                                                  |
+| Link                                                 | Source Code                                             | Referrer(s)                                                                                                                                |
+| ---------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [sudo-flix](https://github.com/sussy-code)           | [source code](https://github.com/sussy-code)            | [FMHY](https://fmhy.net): <small>Voted #1 multi-server streaming site of 2024</small>, [2](https://erynith.github.io/movie-web-instances/) |
+| [bookracy](https://bookracy.org)                     | [source code](https://github.com/bookracy)              | [FMHY](https://fmhy.net/readingpiracyguide#ebooks), [someone made a Reddit?](https://www.reddit.com/r/bookracy)                            |
+| [markd](https://markd.it)                            | [source code](https://github.com/itzcozi/markd)         | [FMHY](https://fmhy.net/devtools#markdown-editors): <small>#1 Markdown editor</small>                                                      |
+| [wyzie-subs](https://sub.wyzie.ru)                   | [source code](https://github.com/itzCozi/wyzie-subs)    | [FMHY](https://fmhy.net/devtools#api-tools), <small>used by almost all streaming sites: vidbinge, rivestream</small>                       |
+| [wyzie-lib](https://www.npmjs.com/package/wyzie-lib) | [source code](https://github.com/itzCozi/wyzie-lib)     | <small>Listed alongside wyzie-subs</small>                                                                                                 |
+| [wyzie-proxy](https://proxy.wyzie.ru)                | [source code](https://github.com/itzCozi/wyzie-proxy)   | N/A                                                                                                                                        |
+| [365 Radio](https://365.ilysm.nl)                    | [source code](https://github.com/itzcozi/365)           | [FMHY](https://fmhy.net/audiopiracyguide#streaming-sites)                                                                                  |
+| [stremio-guide](https://bye.undi.rest)               | [source code](https://github.com/itzcozi/stremio-guide) |
+| i6.shark                                             | [source code](https://github.com/i6.shark)              | [Wyzie-Subs](https://sub.wyzie.ru)                                                                                                         |
 
 <sup>
 I am FMHY's most listed dev of 2024 having ~5 of my projects or projects i've contributed to listed on their site, as well as the amount of streaming site listed that use my API.
@@ -42,4 +44,4 @@ I am FMHY's most listed dev of 2024 having ~5 of my projects or projects i've co
 
 Discord: `baddeveloper`  
 Email: Dev@wyzie.ru  
-[Sudo Twitter](https://x.com/sudoflix) | [Replit](https://replit.com/@cozi08) | [Portfolio](https://cozi.lol) | [Twitter](https://x.com/lilmancoop420)
+[My Twitter](https://x.com/sudoflix) | [Replit](https://replit.com/@cozi08) | [Portfolio](https://cozi.lol)
