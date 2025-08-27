@@ -24,7 +24,8 @@ Hi I am Cooper (or BadDeveloper) and I am an experienced student programmer and 
 | [wyzie-proxy](https://proxy.wyzie.ru)                | [source code](https://github.com/itzCozi/wyzie-proxy)   | N/A                                                                                                                                        |
 | [365 Radio](https://365.ilysm.nl)                    | [source code](https://github.com/itzcozi/365)           | [FMHY](https://fmhy.net/audiopiracyguide#streaming-sites)                                                                                  |
 | [stremio-guide](https://bye.undi.rest)               | [source code](https://github.com/itzcozi/stremio-guide) |
-| i6.shark                                             | [source code](https://github.com/i6.shark)              | [Wyzie-Subs](https://sub.wyzie.ru)                                                                                                         |
+| i6.shark                                             | [source code](https://github.com/itzcozi/i6.shark)              | [Wyzie-Subs](https://sub.wyzie.ru)                                                                                                         |
+| [TinyBones](https://tinybones.pages.dev) | [source code](https://github.com/itzcozi/tinybones)              | [Tiny Bones](https://tinybones.pages.dev)     
 
 <sup>
 I am FMHY's most listed dev of 2024 having ~5 of my projects or projects i've contributed to listed on their site, as well as the amount of streaming site listed that use my API.
