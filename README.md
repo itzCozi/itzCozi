@@ -16,7 +16,7 @@ Hi I am Cooper (or BadDeveloper) and I am an experienced student programmer and 
 
 | Link                                                 | Source Code                                             | Referrer(s)                                                                                                                                |
 | ---------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [sudo-flix](https://github.com/sussy-code)           | [source code](https://github.com/sussy-code)            | [FMHY](https://fmhy.net): c, [2](https://erynith.github.io/movie-web-instances/) |
+| [sudo-flix](https://github.com/sussy-code)           | [source code](https://github.com/sussy-code)            | [FMHY](https://fmhy.net), [2](https://erynith.github.io/movie-web-instances/) |
 | [bookracy](https://bookracy.org)                     | [source code](https://github.com/bookracy)              | [FMHY](https://fmhy.net/readingpiracyguide#ebooks), [someone made a Reddit?](https://www.reddit.com/r/bookracy)                            |
 | [markd](https://markd.it)                            | [source code](https://github.com/itzcozi/markd)         | [FMHY](https://fmhy.net/devtools#markdown-editors): <small>#1 Markdown editor</small>                                                      |
 | [wyzie-subs](https://sub.wyzie.ru)                   | [source code](https://github.com/itzCozi/wyzie-subs)    | [FMHY](https://fmhy.net/devtools#api-tools), <small>used by almost all streaming sites: vidbinge, rivestream</small>                       |
@@ -26,6 +26,7 @@ Hi I am Cooper (or BadDeveloper) and I am an experienced student programmer and 
 | [stremio-guide](https://bye.undi.rest)               | [source code](https://github.com/itzcozi/stremio-guide) |
 | i6.shark                                             | [source code](https://github.com/itzcozi/i6.shark)              | [Wyzie-Subs](https://sub.wyzie.ru)                                                                                                 |
 | [TinyBones](https://tinybones.pages.dev) | [source code](https://github.com/itzcozi/tinybones)              | [FMHY](https://fmhy.lol/social-media-tools#blogging-tools) , <small>#1 blogging site</small> |
+| [Devbox](https://devbox.ar0.eu) | [source code](https://github.com/itzcozi/devbox)                          | N/A                                                                                            |
 
 <sup>
 I am FMHY's most listed dev of 2024 having ~5 of my projects or projects i've contributed to listed on their site, as well as the amount of streaming site listed that use my API.
