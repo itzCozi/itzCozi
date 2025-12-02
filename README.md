@@ -9,7 +9,7 @@
 [//]: <> (Light Mode)
 [![Cooper's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/itzCozi#gh-light-mode-only) [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi&hide=css,gls,TeX&langs_count=6&layout=compact&theme=default#gh-light-mode-only)](https://github.com/itzCozi#gh-light-mode-only)
 
-Hi I am Cooper (or BadDeveloper) and I am an experienced student programmer and music producer / DJ. Recently I've been making systems and projects to learn programming and benefit the community, I'm passionate about Open-Source and UI design. Reach out to me if you have any further inquiry.  
+Hi I am Cooper (or BadDeveloper) and I am an experienced student programmer and DJ. Recently I've been making systems, projects and websites to learn programming and benefit the online community, I'm passionate about Open-Source development, UI design and architecting. Reach out to me if you have any further inquiry or want me to build you something!  
 [Donate to me](https://donate.cozi.lol)
 
 ## Cooper's Epic Projects
@@ -46,4 +46,4 @@ I am FMHY's most listed dev of 2024 having ~5 of my projects or projects i've co
 
 Discord: `baddeveloper`  
 Email: Dev@wyzie.ru  
-[My Twitter](https://x.com/sudoflix) | [Replit](https://replit.com/@cozi08) | [Portfolio](https://cozi.lol)
+[My Twitter](https://x.com/sudoflix) | [Replit](https://replit.com/@cozi08) | [Portfolio](https://cozi.lol) (deprecated)
