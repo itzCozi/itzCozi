@@ -25,7 +25,7 @@ Hi I am Cooper (or BadDeveloper) and I am an experienced student programmer and 
 | [365 Radio](https://365.ilysm.nl)                    | [source code](https://github.com/itzcozi/365)           | [FMHY](https://fmhy.net/audiopiracyguide#streaming-sites)                                                                                  |
 | [stremio-guide](https://bye.undi.rest)               | [source code](https://github.com/itzcozi/stremio-guide) | [FMHY](https://fmhy.net/video#stremio-tools) |
 | i6.shark                                             | [source code](https://github.com/itzcozi/i6.shark)              | [Wyzie-Subs](https://sub.wyzie.ru)                                                                                                 |
-| [TinyBones](https://tinybones.pages.dev) | [source code](https://github.com/itzcozi/tinybones)              | [FMHY](https://fmhy.lol/social-media-tools#blogging-tools) , <small>#1 blogging site</small> |
+| [TinyBones](https://tinybones.pages.dev) | [source code](https://github.com/itzcozi/tinybones)              | [FMHY](https://Fmhy.net/social-media-tools#blogging-tools) , <small>#1 blogging site</small> |
 | [Devbox](https://devbox.ar0.eu) | [source code](https://github.com/itzcozi/devbox)                          | N/A                                                                                            |
 
 <sup>
