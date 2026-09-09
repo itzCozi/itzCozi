@@ -46,5 +46,5 @@ I am FMHY's most listed dev of 2024 having ~5 of my projects or projects i've co
 ### Contact Me
 
 Discord: `baddeveloper`  
-Email: Dev@wyzie.io  
+Email: Dev@wyzie.io, dev@ar0.eu  
 [My Twitter](https://x.com/sudoflix) | [Replit](https://replit.com/@cozi08) | [Portfolio](https://cozi.lol) (deprecated)
