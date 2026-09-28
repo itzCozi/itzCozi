@@ -9,7 +9,7 @@
 [//]: <> (Light Mode)
 [![Cooper's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=itzCozi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/itzCozi#gh-light-mode-only) [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=itzCozi&hide=css,gls,TeX&langs_count=6&layout=compact&theme=default#gh-light-mode-only)](https://github.com/itzCozi#gh-light-mode-only)
 
-Hi I am Cooper (or BadDeveloper) and I am an experienced student programmer and DJ. Recently I've been making systems, projects and websites to learn programming and benefit the online community, I'm passionate about Open-Source development, UI design and architecting. Reach out to me if you have any further inquiry or want me to build you something!  
+Hi I am Cooper (or BadDeveloper) and I am an experienced student programmer. Recently I've been making systems, projects and websites to learn programming and benefit the online community, I'm passionate about Open-Source development, UI design and architecting. Reach out to me if you have any further inquiry or want me to build you something!  
 [Donate to me](https://donate.cozi.lol)
 
 ## Cooper's Epic Projects
@@ -22,12 +22,17 @@ Hi I am Cooper (or BadDeveloper) and I am an experienced student programmer and 
 | [wyzie-subs](https://sub.wyzie.io)                   | [source code](https://github.com/wyziedevs/wyzie-subs)  | [FMHY](https://fmhy.net/devtools#api-tools), <small>used by almost all streaming sites: vidbinge, rivestream</small>                      |
 | [wyzie-lib](https://www.npmjs.com/package/wyzie-lib) | [source code](https://github.com/wyziedevs/wyzie-lib)   | <small>Listed alongside wyzie-subs</small>                                                                                                 |
 | [wyzie-proxy](https://proxy.wyzie.io)                | [source code](https://github.com/wyziedevs/wyzie-proxy) | N/A                                                                                                                                        |
-| [365 Radio](https://365.ilysm.nl)                    | [source code](https://github.com/itzcozi/365)           | [FMHY](https://fmhy.net/audiopiracyguide#streaming-sites)                                                                                  |
 | [stremio-guide](https://bye.undi.rest)               | [source code](https://github.com/itzcozi/stremio-guide) | [FMHY](https://fmhy.net/video#stremio-tools)                                                                                               |
 | i6.shark                                             | [source code](https://github.com/itzcozi/i6.shark)      | [Wyzie-Subs](https://sub.wyzie.io)                                                                                                         |
 | [TinyBones](https://tinybones.pages.dev)             | [source code](https://github.com/itzcozi/tinybones)     | [FMHY](https://Fmhy.net/social-media-tools#blogging-tools), <small>#1 blogging site</small>                                               |
 | [coderaft](https://coderaft.ar0.eu)                  | [source code](https://github.com/itzcozi/coderaft)      | N/A                                                                                                                                        |
 | [SCeNT Stack](https://github.com/wyziedevs/SCeNT)    | [source code](https://github.com/wyziedevs/SCeNT)       | <small>Open-source web development stack: SvelteKit, Cloudflare, Nitro, TypeScript</small>                                                |
+
+## Affliated Orgs:
+- Wyzie LLC [Home](https://wyzie.io)
+- MudCrab Labs [Home](https://mudcrab.co)
+- Involving AI N/A
+- Sussy-code [Source](https://github.com/sussy-code)
 
 <sup>
 I am FMHY's most listed dev of 2024 having ~5 of my projects or projects i've contributed to listed on their site, as well as the amount of streaming site listed that use my API.
